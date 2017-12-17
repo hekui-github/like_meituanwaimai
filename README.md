@@ -2,6 +2,9 @@
 
 ### [github地址](https://github.com/hekui-github/like_meituanwaimai)
 
+> 每一个步骤都有对应的一份代码和截图，循序渐进。
+
+
 ---
 ---
 ---
@@ -905,7 +908,7 @@ this.axios.get('/api/shops',{
 })
 ``` 
 
-## 11
+
 
 
 
