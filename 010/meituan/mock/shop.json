@@ -1,0 +1,466 @@
+[
+{
+  "id": 1000,
+  "type": 1,
+  "name": "你的名字",
+  "delivery_type": 1,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/54c60749841a6612df373dc259e8da73108176.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2032,
+  "min_price": 25,
+  "delivery_price": 3.5,
+  "wm_poi_score": 3.7,
+  "month_sale_num": 33,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [2]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 25,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1001,
+  "type": 0,
+  "name": "叫了个炸鸡(鼓楼店)",
+  "delivery_type": 1,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/00b9386a556a39010186a609ce9289e370566.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2502,
+  "min_price": 20,
+  "average_price": 25,
+  "delivery_price": 3,
+  "wm_poi_score": 4.0,
+  "month_sale_num": 3857,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [1, 5, 10]
+  },
+  "shop_return_price":
+  {
+    "code": 1,
+    "min_price": 20,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1002,
+  "type": 2,
+  "name": "望湘园(南京国际广场店)",
+  "delivery_type": 0,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/2d91e93c70f91696907f040392c4835f13918.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 2.5,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+},
+{
+  "id": 1003,
+  "type": 1,
+  "name": "大碗卤肉面（义乌店）",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/a3ae600ff57f13e96cd143ea64df108227851.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2032,
+  "min_price": 20,
+  "delivery_price": 3,
+
+  "month_sale_num": 33,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1004,
+  "type": 0,
+  "name": "一碗水饺",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/0c4b510235691c247cbdb595da0188b0241276.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2502,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.2,
+  "month_sale_num": 3857,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [1, 5, 10]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1005,
+  "type": 2,
+  "name": "芝多客PIZZA（龙眠大道店）",
+  "delivery_type": 0,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/13bfa6f40e775a5471a35c9824a9bcb1230001.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+},
+{
+  "id": 1006,
+  "type": 1,
+  "name": "二师兄烤肉饭脆皮鸡饭(义乌店)",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/fb7a298049d9e82e42c304274b743c7b89796.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2032,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 33,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1007,
+  "type": 0,
+  "name": "光头佬咸骨粥",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/a1c1095f181e340899dd4d177049fb33353269.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2502,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.2,
+  "month_sale_num": 3857,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [1, 5, 10]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1008,
+  "type": 2,
+  "name": "夜少爷酸菜鱼炒饭",
+  "delivery_type": 0,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/5819a343e283117484e0d134d75b1f0d22831.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+},
+{
+  "id": 1009,
+  "type": 1,
+  "name": "爱马仕炒饭（江宁总店）",
+  "delivery_type": 1,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/15d108b2701d4acfd600c5b61dd8f40b146357.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2032,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 33,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1010,
+  "type": 0,
+  "name": "谢恒兴奇味鸡煲",
+  "delivery_type": 1,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/a2a2187e1613939a527d90b33a96f21d249694.png",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2502,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.2,
+  "month_sale_num": 3857,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [1, 5, 10]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1011,
+  "type": 2,
+  "name": "添天麻辣香锅",
+  "delivery_type": 0,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/d6e3b2dd807fdaf1bcc465876857d032266240.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+},
+{
+  "id": 1012,
+  "type": 2,
+  "name": "喵学长的厨房",
+  "delivery_type": 0,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/f8cd155959c7f82d2f2b630ab91cebb7305479.png",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+},
+{
+  "id": 1013,
+  "type": 1,
+  "name": "Chao！香卤大肉炒饭-江宁店",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/fc86a1f47e00d4c419ca960148e2b6e4133244.png",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2032,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 33,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1014,
+  "type": 0,
+  "name": "张姐脆皮鸡烤肉拌饭（义乌店）",
+  "delivery_type": 1,
+  "pic_url": "http://p1.meituan.net/0.84.63/xianfu/1417f9565c7afb1b48fcda228eddf0cb52679.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 2502,
+  "min_price": 20,
+  "delivery_price": 3,
+  "wm_poi_score": 4.2,
+  "month_sale_num": 3857,
+  "shop_discount":
+  {
+    "code": 1,
+    "dis_money": [1, 5, 10]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 1
+  },
+  "shop_return_invoice":
+  {
+    "code": 0,
+    "min_price": 0
+  }
+},
+{
+  "id": 1015,
+  "type": 2,
+  "name": "有粥有饭（江宁万达店）",
+  "delivery_type": 0,
+  "pic_url": "http://p0.meituan.net/0.84.63/xianfu/828c8dec23cfe23d64d882aed640a0ae78935.jpg",
+  "avg_delivery_time": 30,
+  "delivery_distance": 889,
+  "min_price": 20,
+  "delivery_price": 3.5,
+  "wm_poi_score": 4.7,
+  "month_sale_num": 1435,
+  "shop_discount":
+  {
+    "code": 0,
+    "dis_money": [2, 4]
+  },
+  "shop_return_price":
+  {
+    "code": 0,
+    "min_price": 20,
+    "dis_money": 4
+  },
+  "shop_return_invoice":
+  {
+    "code": 1,
+    "min_price": 0
+  }
+}]
