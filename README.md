@@ -1,3 +1,10 @@
+## 分50个步骤高仿美团外卖（1）
+
+### [github地址](https://github.com/hekui-github/like_meituanwaimai)
+
+---
+---
+---
 ## （1）初始化vue项目
 ### 效果
 ![](http://oztmrq2zu.bkt.clouddn.com/001.png)
@@ -293,6 +300,9 @@ data () {
 ```
 
 
+---
+---
+---
 
 ## （5）添加外卖分类栏
 ### 效果
@@ -406,6 +416,11 @@ import typesItem from '@/components/base/types-item/types-item'
 ### 其它
 > 引入.vue文件时使用的@是在webpack.base.conf.js文件的alias位置配置的，在需要写路径时都可以在这里配置绝对路劲的简写方式
 
+
+---
+---
+---
+
 ## (6)正确显示分类栏
 ### 效果
 ![](http://oztmrq2zu.bkt.clouddn.com/006.png)
@@ -438,6 +453,11 @@ props: {
 	}
 },
 ```
+
+
+---
+---
+---
 
 ## (7)构造商铺列表数据，显示商铺图片
 ### 效果
@@ -551,6 +571,11 @@ shop-list-item.vue
 </div>
 ```    
  
+ 
+---
+---
+---
+
 ## （8）添加完整的商品列表
 ### 效果
 ![](http://oztmrq2zu.bkt.clouddn.com/008.png)
@@ -783,7 +808,12 @@ span.xindian {
 
 ```
 
-## 五角星组件和完善页面
+
+---
+---
+---
+
+## （9）五角星组件和完善页面
 
 ### 效果
 ![](http://oztmrq2zu.bkt.clouddn.com/009.png)
@@ -822,7 +852,12 @@ span.xindian {
 2. 在列表后面加了一个空的div，以免滑动到最底下出现部分被遮挡bug
 3. 在商铺列表加了分割条
 
-## mock首页数据
+
+---
+---
+---
+
+## （10）mock首页数据
 
 ### 效果
 ![](http://oztmrq2zu.bkt.clouddn.com/009.png)
